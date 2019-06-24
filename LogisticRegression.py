@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-"Program to run logistic regression to calculate customer churn using Watson telecom dataset"
+"Program to run logistic regression for calculating customer churn using Watson telecom dataset"
 ##Importing require libraries for data preprocessing and logistic regression
 import pandas as pd #For Linear Algebra
 import numpy as np #For Visualizations
